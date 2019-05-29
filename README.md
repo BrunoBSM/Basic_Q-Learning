@@ -7,7 +7,7 @@ Basic Python implementation of Tabular Q-Learning working with OpenAI-Gym
 * NumPy
 
 ### Usage
-To choose a different Environment, simply change the following line to the name of the environment you'd like to test.
+This implementation if of a Tabular Q-Learning, in order to change the Environment, make sure it is compatible. This means it must have a **discrete** *state/observation space* and a **discrete** *action space*. In order to choose a different Environment, simply change the following `"Taxi-v2"` to the name of the environment you'd like to test.
 ```
 env = gym.make("Taxi-v2")
 ```
