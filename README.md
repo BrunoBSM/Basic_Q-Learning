@@ -25,4 +25,4 @@ For learning purposes I encourage you to test different parameters and compare p
 
 [Q-Learning by hand example](http://mnemstudio.org/path-finding-q-learning-tutorial.htm)
 
-[Reinforcement Learning: An Introduction, Sutton and Barto](http://incompleteideas.net/book/the-book.html)
+[Reinforcement Learning: An Introduction, Sutton and Barto](http://incompleteideas.net/book/the-book.html) - Amazing book on the basis for Reinforcement Learning
